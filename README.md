@@ -1,5 +1,5 @@
 # General-Assembly-Project-App
-The project is a single page application for finding recipes and restaurants near New York.
+The project is a single page application for finding recipes and restaurants in New York.
 
 This app is build in JavaScript.
 
